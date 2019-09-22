@@ -2,6 +2,14 @@
   justify-content: center;
   align-items: center;
   display: flex;
+  flex-direction: column;
   height: 100vh;
-  background-color: aqua
+}
+
+.btn-switch{
+  font-size: 1vw;
+}
+
+p{
+  cursor: pointer;
 }
